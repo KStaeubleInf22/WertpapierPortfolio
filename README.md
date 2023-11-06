@@ -27,3 +27,4 @@
   [ ]Teams an Frau Klink
   [ ]Wertpapierdienste anschauen
   [ ]Rausfinden wie man beim Programmstart die Kurse aktualisieren kann.
+  [ ]Dokumentation ( Vorlage von Herr Colic)
