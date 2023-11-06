@@ -17,6 +17,7 @@
 
 ## Eloi
   -Online Key für einen Internetdienst besorgen
+  -Rausfinden wie wir unser Programm visualisieren sollen
 
 ## Kilian
   -Wertpapierdienste anschauen
