@@ -15,6 +15,7 @@
   
 # 6.11.23
   -Grundlagen 
+  -Programmieren
 ## Eloi
   [ ]Rausfinden wie wir unser Programm visualisieren sollen
   [ ]Online Key für einen Internetdienst besorgen
