@@ -14,16 +14,16 @@
 -Eine genaue Dokumentation in Git-Hub erstellen 
   
 # 6.11.23
-
+  -Grundlagen 
 ## Eloi
-  -Online Key für einen Internetdienst besorgen
-  -Rausfinden wie wir unser Programm visualisieren sollen
+  [ ]Rausfinden wie wir unser Programm visualisieren sollen
+  [ ]Online Key für einen Internetdienst besorgen
 
 ## Kilian
-  -Wertpapierdienste anschauen
-  -Rausfinden, wie man die verschiedenen Kurse mit dem Programm verbindet
+  [ ]Wertpapierdienste anschauen
+  [ ]Rausfinden, wie man die verschiedenen Kurse mit dem Programm verbindet
 
 ## Nora
-  -Teams an Frau Klink
-  -Wertpapierdienste anschauen
-  -Rausfinden wie man beim Programmstart die Kurse aktualisieren kann.
+  [ ]Teams an Frau Klink
+  [ ]Wertpapierdienste anschauen
+  [ ]Rausfinden wie man beim Programmstart die Kurse aktualisieren kann.
