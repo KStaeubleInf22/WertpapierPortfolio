@@ -9,7 +9,9 @@
 
 ## Kilian
   -Wertpapierdienste anschauen
+  -Rausfinden, wie man die verschiedenen Kurse mit dem Programm verbindet
 
 ## Nora
   -Teams an Frau Klink
   -Wertpapierdienste anschauen
+  -Rausfinden wie man beim Programmstart die Kurse aktualisieren kann.
