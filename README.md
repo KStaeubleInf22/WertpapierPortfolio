@@ -30,7 +30,7 @@
   [x]Teams an Frau Klink
   [x]Wertpapierdienste anschauen
   [ ]Rausfinden wie man beim Programmstart die Kurse aktualisieren kann.
-  [ ]Dokumentation ( Vorlage von Herr Colic)
+  [ ]Dokumentation (Vorlage von Herr Colic)
   
 ## Zusammenfassung 
   Heute haben wir uns für eine Website für den Aktienkurs entschieden und zwar die Financial Data APIs. Dazu hat Eloi den Schlüssel für das Programm zur Verfügung gestellt. Ausserdem haben wir die Teams-    Nachricht an Frau Klink geschrieben. Das Gespräch haben dann morgen am 7. November 2023. 
