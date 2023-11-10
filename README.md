@@ -34,3 +34,19 @@
   
 ## Zusammenfassung 
   Heute haben wir uns für eine Website für den Aktienkurs entschieden und zwar die Financial Data APIs. Dazu hat Eloi den Schlüssel für das Programm zur Verfügung gestellt. Ausserdem haben wir die Teams-    Nachricht an Frau Klink geschrieben. Das Gespräch haben dann morgen am 7. November 2023. 
+
+# 10.11.23
+
+## Gespräch mit Frau Klink
+Heute hatten wir das Gespräch mit Frau Klink. Sie hat uns ihre Bedingungen für die Aktienauswahlgenannt. Und Ausserdem hat sie uns auch ihre Erwartungen an das Projekt genannt. Also was es alles genau können muss. Eine genaue Zusammenfassung habe ich in unserem Gruppenchat auf Teams hochgeladen. Aber im Grossen und Ganzen sind ihre Forderungen folgende:
+  •	Es sollen Aktien sein, keine Fonds oder ETFs
+  •	Ausserdem sollen die Aktien von Schweizerunternehmer sein
+  •	Die Verschiedenen Aktien sollen nicht von Unternehmer in derselben Branche stammen. (Also z.B. nicht Novartis und Roche)
+Ihre Forderungen an die Grafische Darstellung sind folgende:
+  •	Mit der Grafischen Darstellung ist der Kurs gemeint, also die Entwicklung des Kurses.
+  •	Als Ergebnis soll ausserdem der Gesamtwert der Verschiedenen Aktien berechnet werden aber auch der Wert der einzelnen Aktien. (d.h. die Rendite muss angezeigt werden)
+    o	Rendite= Ertrag/ Eingesetzter Betrag
+  •	Und zum Schluss soll das Programm noch ausgeben, ob man Gewinn oder Verlust gemacht hat und im Allgemeinen soll es auch angeben wie das ganze Portfolio performed.
+
+
+
