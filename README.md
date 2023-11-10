@@ -42,6 +42,8 @@ Heute hatten wir das Gespräch mit Frau Klink. Sie hat uns ihre Bedingungen für
   •	Es sollen Aktien sein, keine Fonds oder ETFs
   •	Ausserdem sollen die Aktien von Schweizerunternehmer sein
   •	Die Verschiedenen Aktien sollen nicht von Unternehmer in derselben Branche stammen. (Also z.B. nicht Novartis und Roche)
+    Wir werden folgende Aktien nehmen: Die Roche-Aktie (Roche Holding AG), Die UBS-Aktie (UBSG.SW ->UBS Group AG) und die Migros-Aktie (Migros Ticaret AS -> MGROS IS) 
+
 Ihre Forderungen an die Grafische Darstellung sind folgende:
   •	Mit der Grafischen Darstellung ist der Kurs gemeint, also die Entwicklung des Kurses.
   •	Als Ergebnis soll ausserdem der Gesamtwert der Verschiedenen Aktien berechnet werden aber auch der Wert der einzelnen Aktien. (d.h. die Rendite muss angezeigt werden)
