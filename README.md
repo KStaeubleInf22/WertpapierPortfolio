@@ -24,7 +24,7 @@
 
 ## Kilian
   [x]Wertpapierdienste anschauen
-  [ ]Rausfinden wie wir unser Programm visualisieren sollen
+  [x]Rausfinden wie wir unser Programm visualisieren sollen
 
 ## Nora
   [x]Teams an Frau Klink
