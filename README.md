@@ -19,12 +19,12 @@
   -Grundlagen 
   -Programmieren
 ## Eloi
-  [ ]Rausfinden wie wir unser Programm visualisieren sollen
+  [ ]Rausfinden, wie man die verschiedenen Kurse mit dem Programm verbindet
   [x]Online Key für einen Internetdienst besorgen
 
 ## Kilian
   [x]Wertpapierdienste anschauen
-  [ ]Rausfinden, wie man die verschiedenen Kurse mit dem Programm verbindet
+  [ ]Rausfinden wie wir unser Programm visualisieren sollen
 
 ## Nora
   [x]Teams an Frau Klink
