@@ -50,5 +50,11 @@ Ihre Forderungen an die Grafische Darstellung sind folgende:
     o	Rendite= Ertrag/ Eingesetzter Betrag
   •	Und zum Schluss soll das Programm noch ausgeben, ob man Gewinn oder Verlust gemacht hat und im Allgemeinen soll es auch angeben wie das ganze Portfolio performed.
 
+# 13.11.23
 
-
+## Eloi
+- [ ] Ein ausfürbares Programm, mit dem man alle Daten eines Wertpapiers bekommt.
+## Kilian
+- [ ] Visualisierung von den Kursen der eigegebenen Werte. 
+## Nora
+- [ ] Mit Winforms anfangen.
