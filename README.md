@@ -58,3 +58,11 @@ Ihre Forderungen an die Grafische Darstellung sind folgende:
 - [ ] Visualisierung von den Kursen der eigegebenen Werte. 
 ## Nora
 - [ ] Mit Winforms anfangen.
+
+# 20.11.23
+
+## Eloi
+- [ ] Beginn mit Winforms.
+- [ ] schreibt der frau Klink.
+## Kilian 
+- [ ] Diagram des Kurses von der Aktie.
