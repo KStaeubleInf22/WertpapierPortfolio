@@ -1,7 +1,7 @@
 # WertpapierPortfolio
 
 ## Grobplanung
-  -Gespräch mit Frau klink
+  -Gespräch mit Frau Klink
     -Die Verschiedenen Kurse bestimmen
     -Den Passenden Dienst für die Wertpapiere aussuchen 
 
@@ -66,3 +66,7 @@ Ihre Forderungen an die Grafische Darstellung sind folgende:
 - [ ] schreibt der frau Klink.
 ## Kilian 
 - [ ] Diagram des Kurses von der Aktie.
+
+## Zusammenfassung vom 20.11.23
+  Heute konnten wir das Programm eigentlich soweit fertigstellen. Um das zu erreichen, haben wir den Wertpapieranbieter gewechselt, weil es mit dem ersten Probleme gab. Mit dem ersten konnte man schweizer 
+  Aktien zwar abrufen aber während des Programmierens hat Eloi bemerkt, dass es die ganze Sache mit der Fundamental-Website nicht funktioniert. Deshalb haben wier den Anbieter gewechselt und zwar auf Free   stock APIs. Dafür mussten wir den Zugriff auf schweizer Wertpapiere aufgeben. Wir haben unsere vorherigen Aktien ersetzt mit denen von Apple, Microsoft und Google.
