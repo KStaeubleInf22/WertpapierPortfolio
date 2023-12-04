@@ -59,14 +59,22 @@ Ihre Forderungen an die Grafische Darstellung sind folgende:
 ## Nora
 - [ ] Mit Winforms anfangen.
 
+## Zusammenfassung 13.11.23
+
+  Heute hat Eloi eigentlich das Fundament für unseren Code geschrieben. Mit seiner Arbeit konnten wir endlich die Aktien vom Anbieter mit unserem Programm verbinden. Kilian und Nora haben zusammen an den    Winforms und der Visualisierung des Aktienkursesngearbeitet. Es hat aber nicht so geklappt wie erwartet, weil wir die Aktienkurse nicht richtig darstellen konnten.
+
 # 20.11.23
 
 ## Eloi
 - [ ] Beginn mit Winforms.
-- [ ] schreibt der frau Klink.
+- [ ] schreibt der Frau Klink.
 ## Kilian 
 - [ ] Diagram des Kurses von der Aktie.
 
 ## Zusammenfassung vom 20.11.23
   Heute konnten wir das Programm eigentlich soweit fertigstellen. Um das zu erreichen, haben wir den Wertpapieranbieter gewechselt, weil es mit dem ersten Probleme gab. Mit dem ersten konnte man schweizer 
   Aktien zwar abrufen aber während des Programmierens hat Eloi bemerkt, dass es die ganze Sache mit der Fundamental-Website nicht funktioniert. Deshalb haben wier den Anbieter gewechselt und zwar auf Free   stock APIs. Dafür mussten wir den Zugriff auf schweizer Wertpapiere aufgeben. Wir haben unsere vorherigen Aktien ersetzt mit denen von Apple, Microsoft und Google.
+
+## Zusammenfassung vom 27.11.23
+
+  Heute haben wir den Code nur noch verfeinert. Er erfüllt zwar nicht alle Angaben von den Anforderungen aber im Grossen und Ganzen ist der Code brauchbar.
