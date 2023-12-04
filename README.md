@@ -53,11 +53,11 @@ Ihre Forderungen an die Grafische Darstellung sind folgende:
 # 13.11.23
 
 ## Eloi
-- [ ] Ein ausfürbares Programm, mit dem man alle Daten eines Wertpapiers bekommt.
+- [x] Ein ausfürbares Programm, mit dem man alle Daten eines Wertpapiers bekommt.
 ## Kilian
-- [ ] Visualisierung von den Kursen der eigegebenen Werte. 
+- [x] Visualisierung von den Kursen der eigegebenen Werte. 
 ## Nora
-- [ ] Mit Winforms anfangen.
+- [x] Mit Winforms anfangen.
 
 ## Zusammenfassung 13.11.23
 
@@ -66,10 +66,10 @@ Ihre Forderungen an die Grafische Darstellung sind folgende:
 # 20.11.23
 
 ## Eloi
-- [ ] Beginn mit Winforms.
-- [ ] schreibt der Frau Klink.
+- [x] Winforms verfeinern, weil es zu begin nicht richtig funktioniert hat.
+- [x] schreibt der Frau Klink.
 ## Kilian 
-- [ ] Diagram des Kurses von der Aktie.
+- [x] Diagram des Kurses von der Aktie.
 
 ## Zusammenfassung vom 20.11.23
   Heute konnten wir das Programm eigentlich soweit fertigstellen. Um das zu erreichen, haben wir den Wertpapieranbieter gewechselt, weil es mit dem ersten Probleme gab. Mit dem ersten konnte man schweizer 
