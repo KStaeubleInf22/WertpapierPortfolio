@@ -7,9 +7,9 @@
 
 [ ]Ein Programm erstellen, mit dem man den Kurs der Aktie verfolgen kann 
 
-  [ ]Es muss mit mindestens drei Kursen im Internet verbunden sein 
-  [ ]Beim Programmstart Kursverlauf aktualisieren 
-  [ ]Die Eingaben des Nutzers müssen validiert und abgespeichert werden 
+  [x]Es muss mit mindestens drei Kursen im Internet verbunden sein 
+  [x]Beim Programmstart Kursverlauf aktualisieren 
+  [x]Die Eingaben des Nutzers müssen validiert und abgespeichert werden 
   [ ]Das Programm muss die Entwicklung der Aktie grafisch wiedergeben 
   [ ]Die Entwicklung des Wertpapieres muss berechnet werden 
   
@@ -19,7 +19,7 @@
   -Grundlagen 
   -Programmieren
 ## Eloi
-  [ ]Rausfinden, wie man die verschiedenen Kurse mit dem Programm verbindet
+  [x]Rausfinden, wie man die verschiedenen Kurse mit dem Programm verbindet
   [x]Online Key für einen Internetdienst besorgen
 
 ## Kilian
